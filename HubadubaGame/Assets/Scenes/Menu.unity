@@ -1409,7 +1409,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   locker: {fileID: 770464997}
   checker: {fileID: 1650347944}
-  button: {fileID: 0}
+  button: {fileID: 876130745}
   price: 100
   image: {fileID: 222896100}
   IsEquip: 0

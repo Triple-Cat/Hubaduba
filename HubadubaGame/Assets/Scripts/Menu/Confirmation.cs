@@ -13,8 +13,9 @@ public class Confirmation : MonoBehaviour
     {
         if (checker == true)
         {
-            suggestion = true;
+            
             panel.SetActive(false);
+            suggestion = true;
         }
         else
         {

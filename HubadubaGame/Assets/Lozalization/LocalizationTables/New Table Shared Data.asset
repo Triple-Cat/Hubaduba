@@ -23,6 +23,10 @@ MonoBehaviour:
     m_Key: Tests
     m_Metadata:
       m_Items: []
+  - m_Id: 4741993879015424
+    m_Key: Confirmation panel
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

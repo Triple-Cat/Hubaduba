@@ -78,6 +78,7 @@
     <Compile Include="Assets\Scripts\MoneyManager.cs" />
     <Compile Include="Assets\Scripts\InGame\Enemy.cs" />
     <Compile Include="Assets\Scripts\InGame\CameraMoover.cs" />
+    <Compile Include="Assets\Scripts\InGame\PauseMenu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

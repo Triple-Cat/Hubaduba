@@ -396,6 +396,7 @@
 "Assets/Scripts/InGame/CameraMoover.cs"
 "Assets/Scripts/InGame/Enemy.cs"
 "Assets/Scripts/InGame/HeadShot.cs"
+"Assets/Scripts/InGame/PauseMenu.cs"
 "Assets/Scripts/InGame/PlayerWalking.cs"
 "Assets/Scripts/InGame/Reload.cs"
 "Assets/Scripts/InGame/RendLine.cs"

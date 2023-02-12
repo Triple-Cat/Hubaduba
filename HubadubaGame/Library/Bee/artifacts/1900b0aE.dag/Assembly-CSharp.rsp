@@ -401,8 +401,6 @@
 "Assets/Scripts/InGame/RendLine.cs"
 "Assets/Scripts/InGame/Shooting.cs"
 "Assets/Scripts/LanguageSwap.cs"
-"Assets/Scripts/Menu/BuyScript.cs"
-"Assets/Scripts/Menu/Confirmation.cs"
 "Assets/Scripts/Menu/MenuManager.cs"
 "Assets/Scripts/Menu/Player.cs"
 "Assets/Scripts/Menu/VolumeValue.cs"

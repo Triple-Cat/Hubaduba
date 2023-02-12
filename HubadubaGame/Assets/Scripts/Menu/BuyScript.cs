@@ -20,8 +20,11 @@ public class BuyScript : MonoBehaviour
     {
         if (IsBought == false)
         {
-            checker.SetActive(true);
-            if (Confirmation.suggestion == true)
+            if (Confirmation.suggestion == false)
+            {
+                checker.SetActive(true);
+            }
+            else
             {
                 if (price <= MoneyManager.money)
                 {
@@ -31,7 +34,7 @@ public class BuyScript : MonoBehaviour
                     MoneyManager.money -= price;
                     Debug.Log($"вы экипировали {image.name}");
                     Player.playerImage = image;
-                    
+
                 }
                 else
                 {
@@ -39,7 +42,6 @@ public class BuyScript : MonoBehaviour
                 }
                 Confirmation.suggestion = false;
             }
-           
         }
         else
         {

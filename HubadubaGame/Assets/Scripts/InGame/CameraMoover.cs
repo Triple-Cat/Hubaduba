@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class CameraMoover : MonoBehaviour
 {
-    float dumping = 6f;
+    float dumping = 2f;
     Vector2 offset = new Vector2(2f,1f);
     bool isLeft;
     Transform player;

@@ -16,8 +16,10 @@ public class BuyScript : MonoBehaviour
 
     public bool IsEquip = false;
     public bool IsBought = false;
+  
     public void Purchase()
     {
+        
         if (IsBought == false)
         {
             if (Confirmation.suggestion == false)
